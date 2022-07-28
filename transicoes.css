@@ -1,0 +1,533 @@
+#paranaBtn{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 23%;
+    top: 63%;
+    background:none;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+
+#saoPauloBtn {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 26%;
+    top: 57%;
+    background:none;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+#santaCatarinaBtn {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 23%;
+    top: 71%;
+    background:none;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+#riodeJaneiroBtn {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    left: 32%;
+    top: 62%;
+    background:none;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+#rioGrandedoSulBtn {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 21%;
+    top: 74%;
+    background:none;
+    outline: none;
+    border: none;
+    cursor: pointer;}
+#minasGeraisBtn {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 30%;
+    top: 50%;
+    background:none;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+#matoGrossoBtn {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 18%;
+    top: 45%;
+    background:none;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+#matoGrossodoSulBtn {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 20%;
+    top: 60%;
+    background:none;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+#goiasBtn {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 25%;
+    top: 42%;
+    background:none;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+#acreBtn {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    left: 4%;
+    top: 33%;
+    background:none;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+#amazonasBtn {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 12%;
+    top: 22%;
+    background:none;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+#paraBtn {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 20%;
+    top: 18%;
+    background:none;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+#paraibaBtn {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    left: 39%;
+    top: 27%;
+    background:none;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+#piauiBtn {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 33%;
+    top: 25%;
+    background:none;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+#bahiaBtn {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 33%;
+    top: 36%;
+    background:none;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+#rioGrandedoNorteBtn {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    left: 37.5%;
+    top: 24%;
+    background:none;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+#pernambucoBtn {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    left: 36.5%;
+    top: 30%;
+    background:none;
+    outline: none;
+    border: none;
+    cursor: pointer;}
+#cearaBtn {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    left: 35%;
+    top: 20%;
+    background:none;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+#maranhaoBtn {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 31%;
+    top: 18%;
+    background:none;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+#roraimaBtn {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 13%;
+    top: 1%;
+    background:none;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+#rondoniaBtn {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    left: 11%;
+    top: 33%;
+    background:none;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+#tocantinsBtn {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 26%;
+    top: 29%;
+    background:none;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+#espiritoSantoBtn {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    left: 34%;
+    top: 56%;
+    background:none;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+#sergipeBtn {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 37.5%;
+    top: 36%;
+    background:none;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+#alagoasBtn {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 38.5%;
+    top: 33%;
+    background:none;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+#amapaBtn {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    left: 23%;
+    top: 5%;
+    background:none;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+
+#paranaBtn:hover, #saoPauloBtn:hover, #santaCatarinaBtn:hover, #riodeJaneiroBtn:hover, #rioGrandedoSulBtn:hover, #minasGeraisBtn:hover, #matoGrossoBtn:hover, #matoGrossodoSulBtn:hover, #goiasBtn:hover, #acreBtn:hover, #amazonasBtn:hover, #paraBtn:hover, #paraibaBtn:hover, #piauiBtn:hover, #bahiaBtn:hover, #rioGrandedoNorteBtn:hover, #pernambucoBtn:hover, #cearaBtn:hover, #maranhaoBtn:hover, #roraimaBtn:hover, #rondoniaBtn:hover, #tocantinsBtn:hover, #espiritoSantoBtn:hover, #sergipeBtn:hover, #alagoasBtn:hover, #amapaBtn:hover{
+    transform: rotate(20deg) scale(1.2);
+}
+
+@keyframes paranaImg {
+    0% {
+      background-image: url(estados_brasil/Estados.png);
+    }
+    100% {
+        background-image: url(estados_brasil/parana.png);
+        --mapa: url(estados_brasil/parana.png);
+    }
+}
+@keyframes santaCatarinaImg {
+    0% {
+      background-image: url(estados_brasil/Estados.png);
+    }
+    100% {
+        background-image: url(estados_brasil/SantaCatarina.png);
+        --mapa: url(estados_brasil/SantaCatarina.png);
+    }
+}
+@keyframes acreImg {
+    0% {
+      background-image: url(estados_brasil/Estados.png);
+    }
+    100% {
+        background-image: url(estados_brasil/acre.png);
+        --mapa: url(estados_brasil/acre.png);
+    }
+}
+@keyframes bahiaImg {
+    0% {
+      background-image: url(estados_brasil/Estados.png);
+    }
+    100% {
+        background-image: url(estados_brasil/bahia.png);
+        --mapa: url(estados_brasil/bahia.png);
+    }
+}
+@keyframes rioGrandeNorteImg {
+    0% {
+      background-image: url(estados_brasil/Estados.png);
+    }
+    100% {
+        background-image: url(estados_brasil/rioGrandeNorte.png);
+        --mapa: url(estados_brasil/rioGrandeNorte.png);
+    }
+}
+@keyframes rioGrandeSulImg {
+    0% {
+      background-image: url(estados_brasil/Estados.png);
+    }
+    100% {
+        background-image: url(estados_brasil/rioGrandeSul.png);
+        --mapa: url(estados_brasil/rioGrandeSul.png);
+    }
+}
+@keyframes tocantinsImg {
+    0% {
+      background-image: url(estados_brasil/Estados.png);
+    }
+    100% {
+        background-image: url(estados_brasil/tocantins.png);
+        --mapa: url(estados_brasil/tocantins.png);
+    }
+}
+@keyframes goiasImg {
+    0% {
+      background-image: url(estados_brasil/Estados.png);
+    }
+    100% {
+        background-image: url(estados_brasil/goias.png);
+        --mapa: url(estados_brasil/goias.png);
+    }
+}
+@keyframes piauiImg {
+    0% {
+      background-image: url(estados_brasil/Estados.png);
+    }
+    100% {
+        background-image: url(estados_brasil/piaui.png);
+        --mapa: url(estados_brasil/piaui.png);
+    }
+}
+@keyframes pernambucoImg {
+    0% {
+      background-image: url(estados_brasil/Estados.png);
+    }
+    100% {
+        background-image: url(estados_brasil/pernambuco.png);
+        --mapa: url(estados_brasil/pernambuco.png);
+    }
+}
+@keyframes minasGeraisImg {
+    0% {
+      background-image: url(estados_brasil/Estados.png);
+    }
+    100% {
+        background-image: url(estados_brasil/minasGerais.png);
+        --mapa: url(estados_brasil/minasGerais.png);
+    }
+}
+@keyframes matoGrossoSulImg {
+    0% {
+      background-image: url(estados_brasil/Estados.png);
+    }
+    100% {
+        background-image: url(estados_brasil/matoGrossoSul.png);
+        --mapa: url(estados_brasil/matoGrossoSul.png);
+    }
+}
+@keyframes matoGrossoImg {
+    0% {
+      background-image: url(estados_brasil/Estados.png);
+    }
+    100% {
+        background-image: url(estados_brasil/matoGrosso.png);
+        --mapa: url(estados_brasil/matoGrosso.png);
+    }
+}
+@keyframes espiritoSantoImg {
+    0% {
+      background-image: url(estados_brasil/Estados.png);
+    }
+    100% {
+        background-image: url(estados_brasil/espiritoSanto.png);
+        --mapa: url(estados_brasil/espiritoSanto.png);
+    }
+}
+@keyframes riodeJaneiroImg {
+    0% {
+      background-image: url(estados_brasil/Estados.png);
+    }
+    100% {
+        background-image: url(estados_brasil/rioJaneiro.png);
+        --mapa: url(estados_brasil/rioJaneiro.png);
+    }
+}
+@keyframes saoPauloImg {
+    0% {
+      background-image: url(estados_brasil/Estados.png);
+    }
+    100% {
+        background-image: url(estados_brasil/sãoPaulo.png);
+        --mapa: url(estados_brasil/sãoPaulo.png);
+    }
+}
+@keyframes maranhaoImg {
+    0% {
+      background-image: url(estados_brasil/Estados.png);
+    }
+    100% {
+        background-image: url(estados_brasil/maranhão.png);
+        --mapa: url(estados_brasil/maranhão.png);
+    }
+}
+@keyframes cearaImg {
+    0% {
+      background-image: url(estados_brasil/Estados.png);
+    }
+    100% {
+        background-image: url(estados_brasil/ceara.png);
+        --mapa: url(estados_brasil/ceara.png);
+    }
+}
+@keyframes roraimaImg {
+    0% {
+      background-image: url(estados_brasil/Estados.png);
+    }
+    100% {
+        background-image: url(estados_brasil/roraima.png);
+        --mapa: url(estados_brasil/roraima.png);
+    }
+}
+@keyframes rondoniaImg {
+    0% {
+      background-image: url(estados_brasil/Estados.png);
+    }
+    100% {
+        background-image: url(estados_brasil/rondonia.png);
+        --mapa: url(estados_brasil/rondonia.png);
+    }
+}
+@keyframes paraibaImg {
+    0% {
+      background-image: url(estados_brasil/Estados.png);
+    }
+    100% {
+        background-image: url(estados_brasil/paraíba.png);
+        --mapa: url(estados_brasil/paraíba.png);
+    }
+}
+@keyframes paraImg {
+    0% {
+      background-image: url(estados_brasil/Estados.png);
+    }
+    100% {
+        background-image: url(estados_brasil/para.png);
+        --mapa: url(estados_brasil/para.png);
+    }
+}
+@keyframes amazonasImg {
+    0% {
+      background-image: url(estados_brasil/Estados.png);
+    }
+    100% {
+        background-image: url(estados_brasil/amazonas.png);
+        --mapa: url(estados_brasil/amazonas.png);
+    }
+}
+@keyframes sergipeImg {
+    0% {
+      background-image: url(estados_brasil/Estados.png);
+    }
+    100% {
+        background-image: url(estados_brasil/sergipe.png);
+        --mapa: url(estados_brasil/sergipe.png);
+    }
+}
+@keyframes alagoasImg {
+    0% {
+      background-image: url(estados_brasil/Estados.png);
+    }
+    100% {
+        background-image: url(estados_brasil/alagoas.png);
+        --mapa: url(estados_brasil/alagoas.png);
+    }
+}
+@keyframes amapaImg {
+    0% {
+      background-image: url(estados_brasil/Estados.png);
+    }
+    100% {
+        background-image: url(estados_brasil/amapa.png);
+        --mapa: url(estados_brasil/amapa.png);
+    }
+}
+
+@keyframes voltar {
+    0%{
+        background-image:var(--mapa)
+    }
+    100% {
+        background-image: url(estados_brasil/Estados.png);
+    }
+}
